@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-08-25T03:49:45.786Z",
+  "fields": [
+    "id",
+    "name",
+    "keywords"
+  ],
+  "records": [
+    {
+      "id": "india-pincodes-by-state",
+      "name": "PIN Codes Grouped by State",
+      "keywords": "pin codes grouped by state india-pincodes-by-state india-geo pincode by state post offices by state"
+    }
+  ]
+}

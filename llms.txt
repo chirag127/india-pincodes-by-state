@@ -1,0 +1,10 @@
+# PIN Codes Grouped by State
+
+PIN codes grouped by state with counts
+
+- API: https://chirag127.github.io/india-pincodes-by-state/data.json
+- OpenAPI: https://chirag127.github.io/india-pincodes-by-state/openapi.json
+- Schema: https://chirag127.github.io/india-pincodes-by-state/data/schema.json
+- License: CC-BY-4.0
+- Source: India Post open data
+- Status: india-pincodes-by-state
